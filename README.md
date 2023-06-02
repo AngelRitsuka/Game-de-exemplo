@@ -1,2 +1,1 @@
-# Game-de-exemplo
-sprites
+# Trex-Etapa-0
